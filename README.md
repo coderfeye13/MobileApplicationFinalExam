@@ -6,8 +6,11 @@ This app is designed to facilitate users' access to educational materials and ma
 
 ## Images
 
-![Main Screen](path_to_image/Ekran_Resmi_2024-06-12_18_54_27.png)
-![Subcategory Screen](path_to_image/Ekran_Resmi_2024-06-12_18_54_56.png)
+<img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/assets/sc1.jpeg">
+<img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/assets/sc2.jpeg">
+<img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/assets/sc3.jpeg">
+<img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/assets/sc4.jpeg">
+
 
 ## Features
 
