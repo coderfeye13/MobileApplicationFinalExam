@@ -1,8 +1,8 @@
-# Mobile Application Development Course Project
+# Recipes App
 
-"Mobile Application Development Course Project" is a mobile education application developed using Flutter. The application includes main and sub-category screens and reads data in JSON format from a REST API. It utilizes a state management library and implements asynchronous programming where appropriate. The app features animated transitions and Hero animations. Data is displayed collectively using ListView and individually when selected.
+"Recipes App" is a mobile application developed using Flutter. The application includes screens for main and sub-categories and reads data in JSON format from a REST API. It utilizes a state management library and implements asynchronous programming where appropriate. The app features animated transitions and Hero animations. Data is displayed collectively using ListView and individually when selected.
 
-This app is designed to facilitate users' access to educational materials and make the learning process interactive.
+This app is designed to facilitate users' access to a variety of recipes and make the browsing process interactive.
 
 ## Images
 
@@ -14,8 +14,8 @@ This app is designed to facilitate users' access to educational materials and ma
 
 ## Features
 
-- **Main and Subcategory Screens**: Users can access different education categories and their subsections.
-- **Reading JSON Data with REST API**: The application reads the training materials in JSON format via a REST API and presents them to the user.
+- **Main and Subcategory Screens**: Users can access different recipe categories and their subsections.
+- **Reading JSON Data with REST API**: The application reads the recipe data in JSON format via a REST API and presents them to the user.
 - **Use of State Management**: The application uses state management techniques to manage user interactions and data flow.
 - **Asynchronous Programming**: Asynchronous programming methods are implemented to retrieve and process data quickly and efficiently.
 - **Animated Transitions**: Animations are used for transitions between screens to enhance the user experience.
