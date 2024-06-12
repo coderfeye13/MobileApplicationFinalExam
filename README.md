@@ -8,7 +8,7 @@ This app is designed to facilitate users' access to educational materials and ma
 
 <img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/blob/main/assets/%20sc1.jpeg">
 <img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/blob/main/assets/sc2.jpeg">
-<img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/assets/sc3.jpeg">
+<img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/blob/main/assets/sc3.jpeg">
 <img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/assets/sc4.jpeg">
 
 
