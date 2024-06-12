@@ -9,7 +9,7 @@ This app is designed to facilitate users' access to educational materials and ma
 <img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/blob/main/assets/%20sc1.jpeg">
 <img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/blob/main/assets/sc2.jpeg">
 <img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/blob/main/assets/sc3.jpeg">
-<img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/assets/sc4.jpeg">
+<img width="342" alt="Ekran Resmi 2024-06-12 18 54 27" src="https://github.com/coderfeye13/MobileApplicationFinalExam/blob/main/assets/sc4.jpeg">
 
 
 ## Features
@@ -21,9 +21,7 @@ This app is designed to facilitate users' access to educational materials and ma
 - **Animated Transitions**: Animations are used for transitions between screens to enhance the user experience.
 - **ListView and Hero Animations**: In-app transitions are made more visual and fluid with lists and hero animations.
 
-## Installation
 
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/your_username/mobile_education_app.git
-   cd mobile_education_app
+
+## Developer
+-Erciyes University, Computer Engineering Department, Mobile Application Development Course, Furkan YILMAZ.
